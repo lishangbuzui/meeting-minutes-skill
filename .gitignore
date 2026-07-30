@@ -1,0 +1,7 @@
+*.zip
+.skill-validator-deps/
+_installer-test/
+*.tmp
+*.bak
+Thumbs.db
+Desktop.ini
